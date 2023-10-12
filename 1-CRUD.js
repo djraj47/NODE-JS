@@ -12,7 +12,7 @@ const fs = require('fs');
 
 *! append file 
 ** fs.appendFileSync("Raj/bio.txt", "I am a boy");
-
+ 
 *! read file
 ** const dataa = fs.readFileSync("Raj/bio.txt").toString();
 ** console.log(dataa);
@@ -30,3 +30,4 @@ const fs = require('fs');
 
 **/
 
+kkkl=
