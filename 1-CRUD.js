@@ -29,5 +29,3 @@ const fs = require('fs');
 ** fs.rmdirSync("Raj");
 
 **/
-
-kkkl=
